@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif !important;
+}
+
+h1 {
+  font-size: 62px;
+  margin-top: 90px;
+  letter-spacing: 6px;
+}
